@@ -2,7 +2,7 @@
 
 const { ReactLenis } = require('@studio-freight/react-lenis');
 
-export default function Info({ lines }: { lines: string[] | null }){
+export default function Info(){
     return(
         
         <ReactLenis root>
